@@ -21,11 +21,11 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 
 **Description:** The focus is on cleaning and preprocessing the data, analyzing feature correlations, and evaluating model performance using cross-validation techniques.
 
-**Skills:** data cleaning, data analysis, correlation matrices, linear regression, ridge regression, RandomForrest,time series analysis.
+**Skills:** data cleaning, data analysis, correlation matrices, linear regression, ridge regression, RandomForrest,time series analysis, LSTM model.
 
-**Technology:** Python, Pandas, Numpy, Matplotlib, SciPy.
+**Technology:** Python, Pandas, Numpy, Matplotlib, SciPy, Keras.
 
-**Results:** Comparassion of different machine learning tecniques with cross validation
+**Results:** Comparassion of different machine learning,deep learning tecniques with cross validation and grid search
 
 
 
