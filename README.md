@@ -27,7 +27,7 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 
 **Results:** Comparassion of different machine learning,deep learning tecniques with cross validation and grid search
 
-
+##
 
 ### Image Classification
 
@@ -43,6 +43,7 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 
 **Results:** The model achieved high validation accuracy, demonstrating robust image classification capabilities. 
 
+##
 
 ### Sentiment Analysis
 
@@ -57,6 +58,8 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 **Technology:** Python, NLTK, Scikit-learn, Matplotlib, Pandas.
 
 **Results:** The Logistic Regression model demonstrated higher accuracy and precision compared to Naive Bayes, effectively classifying text data into positive and negative sentiment categories.
+
+##
 
 ### Chinook Database Analysis
 
