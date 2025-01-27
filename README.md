@@ -58,6 +58,20 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 
 **Results:** The Logistic Regression model demonstrated higher accuracy and precision compared to Naive Bayes, effectively classifying text data into positive and negative sentiment categories.
 
+### Chinook Database Analysis
+
+**Code:** [Chinook_Report.sql](https://github.com/gamzearmagan/Chinook_Data_Analysis)
+
+**Goal:** Demonstrate advanced SQL skills by analyzing and transforming the Chinook dataset for preparetion a unified and clean dataset for business intelligence tools like Power BI or Looker.The query includes feature engineering, data partitioning, clustering, and churn analysis.
+
+**Description:** The Chinook Data Analysis Project demonstrates the use of advanced SQL techniques to transform, clean, and analyze a digital media store dataset. The project uses the Chinook dataset hosted in Google BigQuery and focuses on preparing a comprehensive, feature-rich dataset for reporting and visualization in Power BI or Looker.
+
+**Skills:** Advanced querying, data cleaning, and transformations.Data Engineering, partitioning, clustering, and feature engineering.
+
+**Technology:** Google BigQuery
+
+**Results:** A well-structured dataset optimized for analysis and reporting. Improved query performance and scalability. Identified inactive customers for retention strategies.
+
 
 ## Education
 
