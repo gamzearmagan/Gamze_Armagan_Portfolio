@@ -9,7 +9,7 @@ I am a passionate and self-driven Data Analyst with over three years of experien
    - Sentiment Analysis
   - SQL
   - Cloud
-  - Power BI
+  - Power BI / Looker
 - Education
 - Certificates
 
@@ -71,10 +71,14 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 
 **Skills:** Advanced querying, data cleaning, and transformations.Data Engineering, partitioning, clustering, and feature engineering.
 
-**Technology:** Google BigQuery
+**Technology:** Google BigQuery, Looker
 
-**Results:** A well-structured dataset optimized for analysis and reporting. Improved query performance and scalability. Identified inactive customers for retention strategies.
+**Results:** A well-structured dataset optimized for analysis and reporting. Improved query performance and scalability. Identified inactive customers for retention strategies. Chinook_Report transfered to Looker Studio to create visual reports.
+- https://lookerstudio.google.com/s/gJz1tesGMy0
 
+![image](https://github.com/user-attachments/assets/8dd796ce-b70c-40f4-83c4-e38b6c00973e)
+![image](https://github.com/user-attachments/assets/8c9ff276-cf36-45bd-8873-1913e252a760)
+![image](https://github.com/user-attachments/assets/6384e4f7-05fc-46a9-a13f-1afde808e245)
 
 ## Education
 
