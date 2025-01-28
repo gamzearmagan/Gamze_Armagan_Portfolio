@@ -7,6 +7,8 @@ I am a passionate and self-driven Data Analyst with over three years of experien
    - Apple Stock Price Prediction
    - Image Classification
    - Sentiment Analysis
+   - Defect Detection with CNN
+   - Chinook Databese Analysis
   - SQL
   - Cloud
   - Power BI / Looker
@@ -58,6 +60,25 @@ I am a passionate and self-driven Data Analyst with over three years of experien
 **Technology:** Python, NLTK, Scikit-learn, Matplotlib, Pandas.
 
 **Results:** The Logistic Regression model demonstrated higher accuracy and precision compared to Naive Bayes, effectively classifying text data into positive and negative sentiment categories.
+
+##
+
+### Defect Detection with CNN
+
+**Code:** git@github.com:gamzearmagan/Defect_Detection.git
+
+**Goal:** To classify and localize defects in industrial images.
+
+**Description:** This project uses the DAGM dataset to detect defects in industrial surfaces. Multiple deep learning architectures, including VGG16, ResNet, AlexNet, and a hybrid ResNet-DenseNet model, were trained and evaluated using k-fold cross-validation. Preprocessing included resizing, normalization, and data augmentation. Evaluation metrics such as accuracy, precision, recall were used to compare model performance.
+
+**Skills:** Deep learning, data preprocessing, image augmentation, feature extraction, hybrid model design, k-fold cross-validation, performance evaluation.
+
+**Technology:** Python, TensorFlow/Keras, OpenCV, NumPy, Matplotlib.
+
+**Results:** ![image](https://github.com/user-attachments/assets/bcbdd39d-f9d2-46af-88fd-0b41655128dd)
+
+
+
 
 ##
 
